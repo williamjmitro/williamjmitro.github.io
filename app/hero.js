@@ -1,8 +1,8 @@
-"use strict";
-var Hero = (function () {
-    function Hero() {
+System.register([], function(exports_1) {
+    return {
+        setters:[],
+        execute: function() {
+        }
     }
-    return Hero;
-}());
-exports.Hero = Hero;
+});
 //# sourceMappingURL=hero.js.map
